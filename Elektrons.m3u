@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,New channel - http //92.49.0.30 4050/udp/239.239.2.2 1234
+#EXTINF:-1,Kanals viens
 http://92.49.0.30:4050/udp/239.239.2.2:1234
 #EXTINF:-1,New channel - http //92.49.0.30 4050/udp/239.239.2.1 1234
 http://92.49.0.30:4050/udp/239.239.2.1:1234
