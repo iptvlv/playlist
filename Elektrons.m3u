@@ -85,3 +85,5 @@ http://92.49.0.30:4050/udp/239.239.2.109:1234
 http://92.49.0.30:4050/udp/239.239.2.110:1234
 #EXTINF:-1,Setanta Sports
 http://92.49.0.30:4050/udp/239.239.2.116:1234
+#EXTINF:-1,IPTV NBA TV USA
+http://80.243.182.106:8080/Basket/NBA1/index.m3u8
