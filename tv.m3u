@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,LTV1
+http://92.49.0.30:4050/udp/239.239.2.1:1234
+#EXTINF:-1,LTV7
+http://92.49.0.30:4050/udp/239.239.2.2:1234
+#EXTINF:-1,TV3
+http://92.49.0.30:4050/udp/239.239.2.3:1234
+#EXTINF:-1,LNT
+http://92.49.0.30:4050/udp/239.239.2.4:1234
+#EXTINF:-1,TV6
+http://92.49.0.30:4050/udp/239.239.2.6:1234
+#EXTINF:-1,TV3+
+http://92.49.0.30:4050/udp/239.239.2.7:1234
+#EXTINF:-1,Kanals 2
+http://92.49.0.30:4050/udp/239.239.2.8:1234
+#EXTINF:-1,Pirmais Baltijas kanals
+http://92.49.0.30:4050/udp/239.239.2.9:1234
+#EXTINF:-1,HTB Mir
+http://92.49.0.30:4050/udp/239.239.2.10:1234
+#EXTINF:-1,Rassija PTP
+http://92.49.0.30:4050/udp/239.239.2.13:1234
+#EXTINF:-1,Viasat Explore
+http://92.49.0.30:4050/udp/239.239.2.15:1234
+#EXTINF:-1,Viasat Nature
+http://92.49.0.30:4050/udp/239.239.2.17:1234
+#EXTINF:-1,Discovery
+http://92.49.0.30:4050/udp/239.239.2.18:1234
+#EXTINF:-1,DTX
+http://92.49.0.30:4050/udp/239.239.2.19:1234
+#EXTINF:-1,Discovery Science
+http://92.49.0.30:4050/udp/239.239.2.20:1234
+#EXTINF:-1,Animal Planet
+http://92.49.0.30:4050/udp/239.239.2.22:1234
+#EXTINF:-1,National Geographic
+http://92.49.0.30:4050/udp/239.239.2.23:1234
+#EXTINF:-1,1 Baltijas Muzikas kanals
+http://92.49.0.30:4050/udp/239.239.2.24:1234
+#EXTINF:-1,Eurosport2
+http://92.49.0.30:4050/udp/239.239.2.26:1234
+#EXTINF:-1,KHL
+http://92.49.0.30:4050/udp/239.239.2.27:1234
+#EXTINF:-1,FOX
+http://92.49.0.30:4050/udp/239.239.2.34:1234
+#EXTINF:-1,FOX Life
+http://92.49.0.30:4050/udp/239.239.2.35:1234
+#EXTINF:-1,Ahota i Ribalka
+http://92.49.0.30:4050/udp/239.239.2.37:1234
+#EXTINF:-1,Rassija 24
+http://92.49.0.30:4050/udp/239.239.2.49:1234
+#EXTINF:-1,Dom Kino
+http://92.49.0.30:4050/udp/239.239.2.52:1234
+#EXTINF:-1,Cartoon Network
+http://92.49.0.30:4050/udp/239.239.2.57:1234
+#EXTINF:-1,VH1 Classic
+http://92.49.0.30:4050/udp/239.239.2.62:1234
+#EXTINF:-1,TV21
+http://92.49.0.30:4050/udp/239.239.2.63:1234
+#EXTINF:-1,EuroNews
+http://92.49.0.30:4050/udp/239.239.2.75:1234
+#EXTINF:-1,BBC World
+http://92.49.0.30:4050/udp/239.239.2.77:1234
+#EXTINF:-1,CNN
+http://92.49.0.30:4050/udp/239.239.2.76:1234
+#EXTINF:-1,Extreme Sports
+http://92.49.0.30:4050/udp/239.239.2.79:1234
+#EXTINF:-1,Night Fantasy
+http://92.49.0.30:4050/udp/239.239.2.85:1234
+#EXTINF:-1,RTL
+http://92.49.0.30:4050/udp/239.239.2.92:1234
+#EXTINF:-1,Sat 1
+http://92.49.0.30:4050/udp/239.239.2.95:1234
+#EXTINF:-1,Pro 7
+http://92.49.0.30:4050/udp/239.239.2.96:1234
+#EXTINF:-1,MTV
+http://92.49.0.30:4050/udp/239.239.2.105:1234
+#EXTINF:-1,MTV 2
+http://92.49.0.30:4050/udp/239.239.2.104:1234
+#EXTINF:-1,VH1 Europe
+http://92.49.0.30:4050/udp/239.239.2.106:1234
+#EXTINF:-1,B TV
+http://92.49.0.30:4050/udp/239.239.2.108:1234
+#EXTINF:-1,H TV
+http://92.49.0.30:4050/udp/239.239.2.109:1234
+#EXTINF:-1,P TV
+http://92.49.0.30:4050/udp/239.239.2.110:1234
+#EXTINF:-1,Setanta Sports
+http://92.49.0.30:4050/udp/239.239.2.116:1234
