@@ -7,7 +7,7 @@
 		<track><location>udp://@239.10.0.40:56789</location>	<title>TV3</title></track>
 		<track><location>udp://@239.10.0.41:56789</location>	<title>LNT</title></track>
 		<track><location>udp://@239.10.0.43:56789</location>	<title>TV6</title></track>
-    <track><location>udp://@239.10.0.32:56789</location>	<title>Re:TV</title></track>
+    		<track><location>udp://@239.10.0.32:56789</location>	<title>Re:TV</title></track>
 		<track><location>udp://@239.10.0.33:56789</location>	<title>Riga TV24</title></track>
 		<track><location>udp://@239.10.0.42:56789</location>	<title>S.TV</title></track>
 		<track><location>udp://@239.10.0.89:56789</location>	<title>Kanāls 2</title></track>
