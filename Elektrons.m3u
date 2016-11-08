@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+#EXTM3U
+#EXTINF:0,<?xml version="1.0" encoding="UTF-8"?>
 <playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
-	<title>Playlist</title>
+#EXTINF:0,	<title>Playlist</title>
 	<trackList>
-		<track><location>udp://@239.10.0.30:56789</location>	<title>LTV1</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.30:56789</location>	<title>LTV1</title></track>
 		<track><location>udp://@239.10.0.31:56789</location>	<title>LTV7</title></track>
-		<track><location>udp://@239.10.0.40:56789</location>	<title>TV3</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.40:56789</location>	<title>TV3</title></track>
 		<track><location>udp://@239.10.0.41:56789</location>	<title>LNT</title></track>
-		<track><location>udp://@239.10.0.43:56789</location>	<title>TV6</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.43:56789</location>	<title>TV6</title></track>
     		<track><location>udp://@239.10.0.32:56789</location>	<title>Re:TV</title></track>
-		<track><location>udp://@239.10.0.33:56789</location>	<title>Riga TV24</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.33:56789</location>	<title>Riga TV24</title></track>
 		<track><location>udp://@239.10.0.42:56789</location>	<title>S.TV</title></track>
-		<track><location>udp://@239.10.0.89:56789</location>	<title>Kanāls 2</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.89:56789</location>	<title>Kanāls 2</title></track>
 		<track><location>udp://@239.10.0.44:56789</location>	<title>TV3+</title></track>
-		<track><location>udp://@239.10.0.56:56789</location>	<title>НТВ Мир</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.56:56789</location>	<title>НТВ Мир</title></track>
 		<track><location>udp://@239.10.0.45:56789</location>	<title>Первый Балтийский Канал</title></track>
-		<track><location>udp://@239.10.0.48:56789</location>	<title>RenTV</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.48:56789</location>	<title>RenTV</title></track>
 		<track><location>udp://@239.10.0.75:56789</location>	<title>Мир</title></track>
-		<track><location>udp://@239.10.0.76:56789</location>	<title>Ru TV</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.76:56789</location>	<title>Ru TV</title></track>
 		<track><location>udp://@239.10.0.58:56789</location>	<title>Союз</title></track>
-		<track><location>udp://@239.10.0.51:56789</location>	<title>Охота и рыбалка</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.51:56789</location>	<title>Охота и рыбалка</title></track>
 		<track><location>udp://@239.10.0.46:56789</location>	<title>Первый Балтийский Музыкальный Канал</title></track>
-		<track><location>udp://@239.10.0.57:56789</location>	<title>СТС Балтия</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.57:56789</location>	<title>СТС Балтия</title></track>
 		<track><location>udp://@239.10.0.85:56789</location>	<title>ТВЦ</title></track>
-		<track><location>udp://@239.10.0.86:56789</location>	<title>Latvijas Šlāgerkanāls</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.86:56789</location>	<title>Latvijas Šlāgerkanāls</title></track>
 		<track><location>udp://@239.10.0.60:56789</location>	<title>LatMuzVideo</title></track>
-		<track><location>udp://@239.10.0.78:56789</location>	<title>MTV</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.78:56789</location>	<title>MTV</title></track>
 		<track><location>udp://@239.10.0.79:56789</location>	<title>VH1</title></track>
-		<track><location>udp://@239.10.0.81:56789</location>	<title>Музыка Первого</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.81:56789</location>	<title>Музыка Первого</title></track>
 		<track><location>udp://@239.10.0.50:56789</location>	<title>Eurosport</title></track>
-		<track><location>udp://@239.10.0.35:56789</location>	<title>Sportacentrs</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.35:56789</location>	<title>Sportacentrs</title></track>
 		<track><location>udp://@239.10.0.54:56789</location>	<title>National Geographic</title></track>
-		<track><location>udp://@239.10.0.73:56789</location>	<title>Animal Planet</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.73:56789</location>	<title>Animal Planet</title></track>
 		<track><location>udp://@239.10.0.74:56789</location>	<title>Discovery</title></track>
-		<track><location>udp://@239.10.0.77:56789</location>	<title>CBS Reality</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.77:56789</location>	<title>CBS Reality</title></track>
 		<track><location>udp://@239.10.0.47:56789</location>	<title>KidZone</title></track>
-		<track><location>udp://@239.10.0.72:56789</location>	<title>Nickelodeon</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.72:56789</location>	<title>Nickelodeon</title></track>
 		<track><location>udp://@239.10.0.53:56789</location>	<title>PRO100</title></track>
-		<track><location>udp://@239.10.0.70:56789</location>	<title>Fox Life</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.70:56789</location>	<title>Fox Life</title></track>
 		<track><location>udp://@239.10.0.71:56789</location>	<title>Sony TV</title></track>
-		<track><location>udp://@239.10.0.61:56789</location>	<title>RTL</title></track>    
+#EXTINF:0,		<track><location>udp://@239.10.0.61:56789</location>	<title>RTL</title></track>    
 		<track><location>udp://@239.10.0.49:56789</location>	<title>BBC World News</title></track>
-		<track><location>udp://@239.10.0.59:56789</location>	<title>CNN</title></track>
+#EXTINF:0,		<track><location>udp://@239.10.0.59:56789</location>	<title>CNN</title></track>
         </trackList>
-</playlist>
+#EXTINF:0,</playlist>
