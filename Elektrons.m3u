@@ -83,3 +83,9 @@ udp://@239.10.0.61:56789
 udp://@239.10.0.49:56789
 #EXTINF:-1,CNN
 udp://@239.10.0.59:56789
+EXTINF:0,Русская Ночь
+#EXTGRP:взрослые
+http://6b198531.iptvzone.me/iptv/FDARE4X4DCVQ72/147/index.m3u8
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:взрослые
+http://6b198531.iptvzone.me/iptv/FDARE4X4DCVQ72/910/index.m3u8
