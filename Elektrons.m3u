@@ -4,78 +4,70 @@ udp://@239.10.0.30:56789
 #EXTINF:-1,LTV7
 udp://@239.10.0.31:56789
 #EXTINF:-1,TV3
-udp://@239.10.0.40:56789
+udp://@239.10.0.45:56789
 #EXTINF:-1,LNT
 udp://@239.10.0.41:56789
 #EXTINF:-1,TV6
-udp://@239.10.0.43:56789
-#EXTINF:-1,Viasat Sport Baltic
-http://hop.02.lv/2NE
-#EXTINF:-1,Viasat Nature
-http://hop.02.lv/2NF
-#EXTINF:-1,Viasat History
-http://hop.02.lv/2NG
+udp://@239.10.0.46:56789
 #EXTINF:-1,Re:TV
 udp://@239.10.0.32:56789
 #EXTINF:-1,Riga TV24
 udp://@239.10.0.33:56789
 #EXTINF:-1,S.TV
-udp://@239.10.0.42:56789
+udp://@239.10.0.47:56789
 #EXTINF:-1,Kanāls 2
-udp://@239.10.0.89:56789
-#EXTINF:-1,TV3+
-udp://@239.10.0.44:56789
-#EXTINF:-1,НТВ Мир
-udp://@239.10.0.56:56789
-#EXTINF:-1,Первый Балтийский Канал
-udp://@239.10.0.45:56789
-#EXTINF:-1,RenTV
-udp://@239.10.0.48:56789
-#EXTINF:-1,Мир
-udp://@239.10.0.75:56789
-#EXTINF:-1,Ru TV
-udp://@239.10.0.76:56789
-#EXTINF:-1,Союз
-udp://@239.10.0.58:56789
-#EXTINF:-1,Охота и рыбалка
-udp://@239.10.0.51:56789
-#EXTINF:-1,Первый Балтийский Музыкальный Канал
-udp://@239.10.0.46:56789
-#EXTINF:-1,СТС Балтия
-udp://@239.10.0.57:56789
-#EXTINF:-1,ТВЦ
-udp://@239.10.0.85:56789
-#EXTINF:-1,Latvijas Šlāgerkanāls
-udp://@239.10.0.86:56789
-#EXTINF:-1,LatMuzVideo
-udp://@239.10.0.60:56789
-#EXTINF:-1,MTV
-udp://@239.10.0.78:56789
-#EXTINF:-1,VH1
-udp://@239.10.0.79:56789
-#EXTINF:-1,Музыка Первого
-udp://@239.10.0.81:56789
-#EXTINF:-1,Eurosport
-udp://@239.10.0.50:56789
-#EXTINF:-1,Sportacentrs
-udp://@239.10.0.35:56789
-#EXTINF:-1,National Geographic
-udp://@239.10.0.54:56789
-#EXTINF:-1,Animal Planet
-udp://@239.10.0.73:56789
-#EXTINF:-1,Discovery
-udp://@239.10.0.74:56789
-#EXTINF:-1,CBS Reality
-udp://@239.10.0.77:56789
-#EXTINF:-1,PRO100
-udp://@239.10.0.53:56789
-#EXTINF:-1,Fox Life
 udp://@239.10.0.70:56789
-#EXTINF:-1,Sony TV
+#EXTINF:-1,Skatvis TV
+udp://@239.10.0.44:56789
+#EXTINF:-1,TV3+
+udp://@239.10.0.52:56789
+#EXTINF:-1,НТВ Мир Балтия
+udp://@239.10.0.50:56789
+#EXTINF:-1,Первый Балтийский Канал
+udp://@239.10.0.48:56789
+#EXTINF:-1,Дом кино
+udp://@239.10.0.75:56789
+#EXTINF:-1,RenTV Балтия
+udp://@239.10.0.51:56789
+#EXTINF:-1,Ru TV
+udp://@239.10.0.86:56789
+#EXTINF:-1,Союз
+udp://@239.10.0.60:56789
+#EXTINF:-1,Охота и рыбалка
+udp://@239.10.0.56:56789
+#EXTINF:-1,ТВЦ
 udp://@239.10.0.71:56789
-#EXTINF:-1,RTL
-udp://@239.10.0.61:56789
-#EXTINF:-1,BBC World News
-udp://@239.10.0.49:56789
-#EXTINF:-1,CNN
+#EXTINF:-1,Latvijas Šlāgerkanāls
+udp://@239.10.0.84:56789
+#EXTINF:-1,LatMuzVideo
+udp://@239.10.0.63:56789
+#EXTINF:-1,MTV
+udp://@239.10.0.88:56789
+#EXTINF:-1,VH1
+udp://@239.10.0.87:56789
+#EXTINF:-1,Музыка Первого
+udp://@239.10.0.85:56789
+#EXTINF:-1,Eurosport 1
 udp://@239.10.0.59:56789
+#EXTINF:-1,Eurosport 2
+udp://@239.10.0.125:56789
+#EXTINF:-1,Sportacentrs
+udp://@239.10.0.34:56789
+#EXTINF:-1,National Geographic
+udp://@239.10.0.61:56789
+#EXTINF:-1,Animal Planet
+udp://@239.10.0.82:56789
+#EXTINF:-1,Discovery
+udp://@239.10.0.83:56789
+#EXTINF:-1,Discovery Science
+udp://@239.10.0.117:56789
+#EXTINF:-1,CBS Reality
+udp://@239.10.0.79:56789
+#EXTINF:-1,PRO100
+udp://@239.10.0.54:56789
+#EXTINF:-1,Fox Life
+udp://@239.10.0.78:56789
+#EXTINF:-1,Sony TV
+udp://@239.10.0.77:56789
+#EXTINF:-1,RTL
+udp://@239.10.0.62:56789
